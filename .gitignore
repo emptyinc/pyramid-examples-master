@@ -1,0 +1,8 @@
+*.db
+*.swp
+*.pyc
+*.egg-info
+.*.ini
+.coverage
+auth/data
+board/data
